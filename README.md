@@ -3,10 +3,19 @@
 
 Email Me 👉 ✉️ **sahilprojectwork0214@gmail.com** For Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** TypeScript · Next.js · Docker basics
-- 👯 **I’m looking to collaborate on:** Open source MERN projects or real-time web apps
-- ⚡ **Fun fact:** I speak JavaScript fluently — sometimes even in my dreams
+## 🙋‍♂️ About Me
+
+- 🔭 I'm currently working on: **LocalPro** — A full-stack platform connecting 
+   users with local service providers, built with MERN Stack & Real-time features
+
+- 🌱 I'm currently learning: **TypeScript · Next.js · Redux Toolkit**
+
+- 👯 I'm looking to collaborate on: **Full-stack MERN projects or service-based 
+   web platforms**
+
+- 💬 Ask me about: **React, Node.js, Express, MongoDB, REST APIs, Socket.io**
+
+- ⚡ Fun fact: I turn real-world problems into web apps — one component at a time!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_sahilydv_0214) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-gothwal-54b5ba245) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilprojectwork0214@gmail.com) 
